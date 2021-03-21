@@ -13,3 +13,4 @@ Run the example with the following command.
 ## Links
 
 * [Deno](https://deno.land/)
+* [TypeScript](https://www.typescriptlang.org/ "TypeScript")
