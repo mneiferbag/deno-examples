@@ -13,4 +13,5 @@ Run the example with the following command.
 ## Links
 
 * [Deno](https://deno.land/)
+* [Web Development Examples](https://github.com/mneiferbag/javascript-examples)
 * [TypeScript](https://www.typescriptlang.org/ "TypeScript")
