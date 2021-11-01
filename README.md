@@ -6,7 +6,7 @@ Collection of Deno web development examples. Examples include CSS, HTML, JavaScr
 
 ## CLI
 
-Run the example with the following command.
+Run the hello world example with the following command.
 
     deno run hello-world.ts
 
